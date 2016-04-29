@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4630380_0012.png"; bbox 0 0 2086 3375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 986 1877 1129">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 986 1877 1129">
+     <span class='ocr_line' id='line_1_1' title="bbox 563 986 1877 1048; baseline -0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 563 986 664 1048; x_wconf 85' lang='lat' dir='ltr'><strong>Den</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 718 1004 1038 1046; x_wconf 70' lang='lat' dir='ltr'><strong>hochliiblichen</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1092 1002 1402 1046; x_wconf 72' lang='lat' dir='ltr'>Universit&#39;ziten</span> <span class='ocrx_word' id='word_1_4' title='bbox 1461 1000 1504 1042; x_wconf 90' lang='lat' dir='ltr'><strong>M</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1517 1007 1543 1042; x_wconf 82' lang='lat' dir='ltr'><strong>ii</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1556 1015 1584 1041; x_wconf 90' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_7' title='bbox 1597 1015 1619 1041; x_wconf 85' lang='lat' dir='ltr'><strong>c</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1632 1000 1658 1041; x_wconf 91' lang='lat' dir='ltr'>h</span> <span class='ocrx_word' id='word_1_9' title='bbox 1673 1014 1695 1041; x_wconf 80' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_10' title='bbox 1708 1014 1732 1039; x_wconf 89' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_11' title='bbox 1790 998 1877 1040; x_wconf 92' lang='lat' dir='ltr'><strong>und</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 331 1073 833 1129; baseline -0.008 -12"><span class='ocrx_word' id='word_1_12' title='bbox 331 1076 361 1118; x_wconf 88' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_13' title='bbox 380 1075 683 1129; x_wconf 83' lang='lat' dir='ltr'><strong>trassburg</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 712 1073 833 1122; x_wconf 79' lang='lat' dir='ltr'><strong>isEls.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1148 1354 1549 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1148 1354 1549 1407">
+     <span class='ocr_line' id='line_1_3' title="bbox 1148 1354 1549 1407; baseline -0.005 -22"><span class='ocrx_word' id='word_1_15' title='bbox 1148 1356 1355 1407; x_wconf 43' lang='lat' dir='ltr'><strong>yekoraartut</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1375 1354 1549 1394; x_wconf 77' lang='lat' dir='ltr'><em>yewidmet</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1326 1546 1403 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1326 1546 1403 1566">
+     <span class='ocr_line' id='line_1_4' title="bbox 1326 1546 1403 1566; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1326 1546 1403 1566; x_wconf 69' lang='lat' dir='ltr'><strong>vom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1226 1721 1491 1765">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1226 1721 1491 1765">
+     <span class='ocr_line' id='line_1_5' title="bbox 1226 1721 1491 1765; baseline -0.004 0"><span class='ocrx_word' id='word_1_18' title='bbox 1226 1721 1491 1765; x_wconf 77' lang='lat' dir='ltr'><strong>Verfasser.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
